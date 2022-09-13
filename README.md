@@ -1,5 +1,5 @@
-<h5 align="center"> !!! Basically, this repository create to deploy my JavaScript ES6 Practice !!! </h5>
+<h4 align="center"> !!! Basically, this repository create to deploy my JavaScript ES6 Practice !!! </h4>
 
-<h6> Prctice List</h6>
+<h5> Prctice List</h5>
 
 <p> 1) Arrow Functions </p>
