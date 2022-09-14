@@ -3,3 +3,4 @@
 <h5>Practice List</h5>
 
 <p> 1) Arrow Functions </p>
+<p> 2) Truthy/Falsy Values </p>
