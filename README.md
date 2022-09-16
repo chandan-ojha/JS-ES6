@@ -7,3 +7,4 @@
 <p> 3) Ternary Operator </p>
 <p> 4) Array find() method </p>
 <p> 4) Array findIndex() method </p>
+<p> 5) Array filter() method </p>
