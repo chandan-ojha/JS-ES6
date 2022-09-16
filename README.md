@@ -5,3 +5,4 @@
 <p> 1) Arrow Functions </p>
 <p> 2) Truthy/Falsy Values </p>
 <p> 3) Ternary Operator </p>
+<p> 4) Array find() method </p>
