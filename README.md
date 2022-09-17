@@ -8,3 +8,4 @@
 <p> 4) Array find() method </p>
 <p> 4) Array findIndex() method </p>
 <p> 5) Array filter() method </p>
+<p> 6) Array slice() method </p>
