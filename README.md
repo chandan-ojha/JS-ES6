@@ -12,3 +12,4 @@
 <p> 7) Array splice() method </p>
 <p> 8) Array concat() method </p>
 <p> 9) Array push() method </p>
+<p> 10) Array map() method </p>
