@@ -11,3 +11,4 @@
 <p> 6) Array slice() method </p>
 <p> 7) Array splice() method </p>
 <p> 8) Array concat() method </p>
+<p> 9) Array push() method </p>
