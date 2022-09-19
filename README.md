@@ -18,3 +18,4 @@
 <p> 13) Important Object Tricks </p>
 <p> 14) Function default parameter </p>
 <p> 15) Spread Operator </p>
+<p> 16) Rest Operator </p>
