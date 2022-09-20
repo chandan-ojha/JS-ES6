@@ -21,3 +21,4 @@
 <p> 16) Rest Operator </p>
 <p> 17) Destructuring </p>
 <p> 18) Module Imports/Exports </p>
+<p> 19) Template Literals </p>
