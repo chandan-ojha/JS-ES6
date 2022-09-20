@@ -19,3 +19,5 @@
 <p> 14) Function default parameter </p>
 <p> 15) Spread Operator </p>
 <p> 16) Rest Operator </p>
+<p> 17) Destructuring </p>
+<p> 18) Module Imports/Exports </p>
