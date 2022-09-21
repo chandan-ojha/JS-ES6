@@ -44,6 +44,8 @@ let mySet = new Set(myArray);
 mySet.add(4);
 log(Array.from(mySet));
 
+//~ 16:13 second Completed
+
 //set usage
 
 
