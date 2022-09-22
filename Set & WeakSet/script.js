@@ -75,14 +75,51 @@ log(mySet);*/
 //Example-01
 
 //find unique element using by set
-let myArray = [1, 2, 3, 4, 5, 5, 5, 6, 5];
+//let myArray = [1, 2, 3, 4, 5, 5, 5, 6, 5];
 
 /* first of all this array convert to a set element and
 remove the duplicate value and
 then the set element convert to a array */
 
-log([...new Set(myArray)]);
+//log([...new Set(myArray)]);
 
+//set union
+let a = new Set([1,2,3]);
+let b = new Set([4,3,2]);
+//log(a);
+//log(b);
 
+//let union = new Set([...a, ...b]);
+//log(union);
 
+//set intersection
+/*let intersection = new Set([...a].filter(x => b.has(x)));
+log(intersection);*/
 
+//set difference
+let difference = new Set([...a].filter(x => !b.has(x)));
+//log(difference);
+
+/***WeakSet***/
+//const ws = new WeakSet([{a: 1}, {b: 2}]);
+//ws.add([{a: 1}]);
+//log(ws);
+
+/*** WeakSet Usages ***/
+const ws = new WeakSet();
+class SomeClass {
+    constructor() {
+      ws.add(this);
+    }
+    method(){
+        if(!ws.has(this)){
+            throw new Error('You can not access this method directly');
+        } else {
+            return 'I am method';
+        }
+    }
+}
+
+const newclass = new SomeClass();
+log(newclass.method());
+//log(SomeClass.prototype.method());
