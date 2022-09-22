@@ -24,3 +24,4 @@
 <p> 19) Template Literals </p>
 <p> 20) Tagged Template Literals </p>
 <p> 21) Set & WeakSet </p>
+<p> 22) copyWithin() Array Method </p>
