@@ -41,5 +41,5 @@ class Student {
         });
     }
 }
-let student = new Student("Chanda",25)
+let student = new Student("Chandan",25)
 student.examplefunction();
